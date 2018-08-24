@@ -1,0 +1,9 @@
+{
+  "name": "sad-machine",
+  "version": "0.0.1",
+  "description": "\"Game inspired on Porter Robinson album worlds\"",
+  "main": "index.js",
+  "repository": "https://github.com/kmiloarguello/sad-machine.git",
+  "author": "@kmiloarguello",
+  "license": "MIT"
+}

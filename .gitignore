@@ -1,1 +1,6 @@
-/node_modules/
+*.zip
+*.ai
+/node_modules
+yarn.lock
+*.mov
+/dist

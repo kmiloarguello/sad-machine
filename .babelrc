@@ -1,9 +1,9 @@
 {
-  "presets": ["env", "react"],
-  "plugins": ["syntax-dynamic-import"],
-  "env": {
-    "test": {
-      "plugins": ["dynamic-import-node"]
+    "presets": ["env", "react"],
+    "plugins": ["syntax-dynamic-import"],
+    "env": {
+      "test": {
+        "plugins": ["dynamic-import-node"]
+      }
     }
   }
-}

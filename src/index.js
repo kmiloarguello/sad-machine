@@ -1,5 +1,5 @@
 import React from "react";
 import { render } from "react-dom";
-import App from "./Components/app";
+import SadMachine from './Components/SadMachine.js';
 
-render(<App />, document.getElementById("root"));
+render(<SadMachine />, document.getElementById("root"));
